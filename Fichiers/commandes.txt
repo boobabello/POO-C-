@@ -1,0 +1,7 @@
+104	8	En_cours	1003	150
+106	9	En_cours	1002	250
+108	5	En_cours	1001	250
+102	2	Livre	1005	30
+105	1	Livre	1001	2
+111	3	Livre	1003	95
+110	5	Livre	1003	25

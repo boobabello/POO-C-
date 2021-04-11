@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1558425323 source:c:\users\manager-hp\desktop\mini_projet_poo\article.cpp
+	<iostream>
+	<string>
+	"Article.h"
+
+1558424836 c:\users\manager-hp\desktop\mini_projet_poo\article.h
+	<string>
+
+1558452104 source:c:\users\manager-hp\desktop\mini_projet_poo\commande.cpp
+	<iostream>
+	<string>
+	"Commande.h"
+
+1558451991 c:\users\manager-hp\desktop\mini_projet_poo\commande.h
+	<string>
+
+1558529123 c:\users\manager-hp\desktop\mini_projet_poo\client.h
+	<string>
+
+1557850630 source:c:\users\manager-hp\desktop\mini_projet_poo\livraison.cpp
+	<iostream>
+	<string>
+	"Livraison.h"
+
+1558444099 c:\users\manager-hp\desktop\mini_projet_poo\livraison.h
+	<string>
+
+1558529702 source:c:\users\manager-hp\desktop\mini_projet_poo\client.cpp
+	<iostream>
+	<string>
+	"Client.h"
+
+1558532292 source:c:\users\manager-hp\desktop\mini_projet_poo\fonctions.cpp
+	<iostream>
+	<string>
+	<vector>
+	"fonctions.h"
+
+1558531032 c:\users\manager-hp\desktop\mini_projet_poo\fonctions.h
+	<string>
+	<fstream>
+	<vector>
+	"Client.h"
+	"Article.h"
+	"Commande.h"
+
+1558534242 source:c:\users\manager-hp\desktop\mini_projet_poo\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Client.h"
+	"Article.h"
+	"Commande.h"
+	"Livraison.h"
+	"fonctions.h"
+
+1558421724 source:h:\mini_projet_poo\article.cpp
+	<iostream>
+	<string>
+	"Article.h"
+
+1558421238 h:\mini_projet_poo\article.h
+	<string>
+
+1558526104 source:h:\mini_projet_poo\client.cpp
+	<iostream>
+	<string>
+	"Client.h"
+
+1558525524 h:\mini_projet_poo\client.h
+	<string>
+
+1558448506 source:h:\mini_projet_poo\commande.cpp
+	<iostream>
+	<string>
+	"Commande.h"
+
+1558448392 h:\mini_projet_poo\commande.h
+	<string>
+
+1558528694 source:h:\mini_projet_poo\fonctions.cpp
+	<iostream>
+	<string>
+	<vector>
+	"fonctions.h"
+
+1558527434 h:\mini_projet_poo\fonctions.h
+	<string>
+	<fstream>
+	<vector>
+	"Client.h"
+	"Article.h"
+	"Commande.h"
+
+1558524320 source:h:\mini_projet_poo\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Client.h"
+	"Article.h"
+	"Commande.h"
+	"fonctions.h"
+
+1558421724 source:d:\usb\semestre 2 new\info 204\projet & td2\aosa\mini_projet_poo ultime\article.cpp
+	<iostream>
+	<string>
+	"Article.h"
+
+1558421238 d:\usb\semestre 2 new\info 204\projet & td2\aosa\mini_projet_poo ultime\article.h
+	<string>
+
+1558526104 source:d:\usb\semestre 2 new\info 204\projet & td2\aosa\mini_projet_poo ultime\client.cpp
+	<iostream>
+	<string>
+	"Client.h"
+
+1558525524 d:\usb\semestre 2 new\info 204\projet & td2\aosa\mini_projet_poo ultime\client.h
+	<string>
+
+1558448506 source:d:\usb\semestre 2 new\info 204\projet & td2\aosa\mini_projet_poo ultime\commande.cpp
+	<iostream>
+	<string>
+	"Commande.h"
+
+1558448392 d:\usb\semestre 2 new\info 204\projet & td2\aosa\mini_projet_poo ultime\commande.h
+	<string>
+
+1558528694 source:d:\usb\semestre 2 new\info 204\projet & td2\aosa\mini_projet_poo ultime\fonctions.cpp
+	<iostream>
+	<string>
+	<vector>
+	"fonctions.h"
+
+1558527434 d:\usb\semestre 2 new\info 204\projet & td2\aosa\mini_projet_poo ultime\fonctions.h
+	<string>
+	<fstream>
+	<vector>
+	"Client.h"
+	"Article.h"
+	"Commande.h"
+
+1558524320 source:d:\usb\semestre 2 new\info 204\projet & td2\aosa\mini_projet_poo ultime\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Client.h"
+	"Article.h"
+	"Commande.h"
+	"fonctions.h"
+
